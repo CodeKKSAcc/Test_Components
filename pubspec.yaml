@@ -37,6 +37,8 @@ dependencies:
   provider: ^6.1.5+1
   path: ^1.9.1
   google_maps_flutter: ^2.18.1
+  geolocator: ^14.1.2
+  window_manager: ^0.5.2
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,7 @@
 
 
 import 'package:flutter/material.dart';
+import 'package:test_components/google_maps/test_geolocator_package.dart';
 import 'google_maps_home.dart';
 
 void main(){
@@ -13,7 +14,7 @@ class TestGoogleMaps extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: TestGoogleMapsHome(),
+      home: TestGeolocatorPackage(),
     );
   }
 }

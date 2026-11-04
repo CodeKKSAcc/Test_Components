@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:test_components/test_styles_and_themes/test_styles&themes.dart';
-import 'package:test_components/test_widgets/test_checkbox.dart';
-import 'package:test_components/test_widgets/test_drawer.dart';
 
 void main() {
   runApp(const MyApp());
